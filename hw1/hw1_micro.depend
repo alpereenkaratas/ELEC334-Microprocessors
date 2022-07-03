@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602351257 source:c:\users\alperen karatas\desktop\hw1_micro\main.c
+	<stdio.h>
+	<stdlib.h>
+
